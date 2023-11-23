@@ -1,6 +1,6 @@
 # Metodología 
 
-La metodología ágil, como Scrum, es ideal para desarrollar la página web de nuestra cafetería con las características y requerimientos descritos, por varias razones:
+La metodología ágil, como *Scrum*, es ideal para desarrollar la página web de nuestra cafetería con las características y requerimientos descritos, por varias razones:
 
 - **Cambio Continuo y Respuesta Rápida**: Los requerimientos mencionados involucran aspectos dinámicos como un menú digital interactivo, opciones de personalización, y un programa de lealtad. Scrum facilita la adaptación a cambios y la incorporación de nuevas ideas o ajustes durante el desarrollo, lo que es crucial en un entorno donde las preferencias de los clientes y las tendencias del mercado cambian rápidamente.
 
