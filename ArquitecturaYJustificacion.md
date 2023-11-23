@@ -24,9 +24,9 @@ Considerando los elementos anteriormente mencionados y las ventajas de cada arqu
 
 En resumen, la arquitectura de microservicios ofrece flexibilidad, escalabilidad, y eficiencia para manejar las diversas y complejas funcionalidades de un sitio web para una cafetería moderna, asegurando al mismo tiempo una experiencia de usuario fluida y confiable. Proponemos una distribución de nuestros servicios de la siguiente manera: 
 
-PONER AQUÍ LA FIGURA DE LA ARQUITECTURA
-
-
+<p align="center">
+  <img src=/Pantallas/FinDelPedido style="display: block; margin-left: auto; margin-right: auto;"/>
+</p>
 
 
 
