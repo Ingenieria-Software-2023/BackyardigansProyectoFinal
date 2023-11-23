@@ -44,9 +44,9 @@ Una vez que el usuario termine de llenar su carrito, oprime el botón de 'pagar'
 * *dropDownList*: fecha de caducidad
 * *textBox*: nombre en la tarjeta, codigo de seguridad (en modo contraseña)
 
-### Personalizar bebida
+### Seleccionar y Personalizar bebida
 
-El usuario puede añadir un toque personalizado a su bebida al poder definir: tamaño, crema batida, shots de café adicionales, toppings de crema batida, tipo de leche, número de endulzantes, entre otros. Según el tipo de bebida, ciertas opciones no estarán disponibles; por ejemplo, las bebidas calientes no acostumbran llevar crema batida. 
+Una vez que el usuario elige la bebida de su interés, puede añadir un toque personalizado a su bebida al poder definir: tamaño, crema batida, shots de café adicionales, toppings de crema batida, tipo de leche, número de endulzantes, entre otros. Según el tipo de bebida, ciertas opciones no estarán disponibles; por ejemplo, las bebidas calientes no acostumbran llevar crema batida. 
 
 > **High Priority**: hoy en día, es muy importante tener la capacidad de adaptar nuestros productos a las preferencias del consumidor, y así, ofrecer una gran experiencia
 
