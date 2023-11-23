@@ -3,7 +3,7 @@
   <img src="https://github.com/Ingenieria-Software-2023/BackyardigansProyectoFinal/assets/101894380/c7351c7b-5fea-4617-8062-677bc6e318b1" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-La arquitectura de *microservicios* sería ideal para nuestra página web de una cafetería por las características y requerimientos que definimos por las siguientes razones:
+La arquitectura de *microservicios* es ideal para nuestra página web de una cafetería para nuestros requerimientos por las siguientes razones:
 
  - **Modularidad**: Cada funcionalidad (inicio de sesión, selección de método de pago, personalización de bebidas, reseñas y calificaciones, y el programa de recompensas) puede desarrollarse como un microservicio independiente. Esto facilita la gestión y el mantenimiento, ya que cada microservicio se puede desarrollar, desplegar, operar y escalar de manera independiente.
 
