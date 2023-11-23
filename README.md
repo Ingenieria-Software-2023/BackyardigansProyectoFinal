@@ -22,4 +22,7 @@ El proyecto consiste en la creación de una aplicación en dónde los y las alum
 * [Requerimientos](Requerimientos.md)
 * [Casos de Uso](CasosDeUso.md)
 * [Plan de Calidad](PlanDeCalidad.md)
+* [Arquitectura](ArquitecturaYJustificacion.md)
+* [Metodologia](MetodologiaYJustificacion.md)
+* [Pantallas](https://app.moqups.com/XdyFwufAJV1R15japZir9fpiT3FGZW9J/view/page/af7a7685e)
 * [Propuesta Economica](PropuestaEconomica.md)
