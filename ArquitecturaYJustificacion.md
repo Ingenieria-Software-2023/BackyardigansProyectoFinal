@@ -1,9 +1,12 @@
 # Arquitectura
+
+Una vez establecidos nuetros requerimientos y funcionalidades y teniendo claro el alcance, tiempo y recursos con los que contamos para el desarrollo de nuestro producto, especificados en el documento [Requerimientos](Requerimientos.md) y en [Readme](Readme.md), consideramos que se requiere una arquitectura que favorezca: la disponibilidad de los servicios, así como la independencia de los mismos; la flexibilidad de los lenguajes de desarrollo, ya que diferentes elementos del equipo se especializan en diferentes herramientas; el fácil desarrollo y despliegue continuo.
+
 <p align="center">
   <img src="https://github.com/Ingenieria-Software-2023/BackyardigansProyectoFinal/assets/101894380/c7351c7b-5fea-4617-8062-677bc6e318b1" style="display: block; margin-left: auto; margin-right: auto;"/>
 </p>
 
-La arquitectura de *microservicios* es ideal para nuestra página web de una cafetería para nuestros requerimientos por las siguientes razones:
+Considerando los elementos anteriormente mencionados y las ventajas de cada arquitectura que se muestran en la imágen, decidimos que la arquitectura de *microservicios* es ideal para nuestra página web de una cafetería para nuestros requerimientos por las siguientes razones:
 
  - **Modularidad**: Cada funcionalidad (inicio de sesión, selección de método de pago, personalización de bebidas, reseñas y calificaciones, y el programa de recompensas) puede desarrollarse como un microservicio independiente. Esto facilita la gestión y el mantenimiento, ya que cada microservicio se puede desarrollar, desplegar, operar y escalar de manera independiente.
 
