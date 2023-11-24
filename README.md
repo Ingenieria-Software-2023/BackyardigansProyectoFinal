@@ -26,4 +26,4 @@ El proyecto consiste en la creación de una aplicación en dónde los y las alum
 * [Metodologia](MetodologiaYJustificacion.md)
 * [Pantallas](https://app.moqups.com/XdyFwufAJV1R15japZir9fpiT3FGZW9J/view/page/af7a7685e)
 * [Propuesta Economica](PropuestaEconomica.md)
-* [Presentación](Presentación.md)
+* [Presentación](https://www.canva.com/design/DAF1C-Fgbfk/aLJjUYTrsXDCkIk4LPlsxw/edit?utm_content=DAF1C-Fgbfk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
