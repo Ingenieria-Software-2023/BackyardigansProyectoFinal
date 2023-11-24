@@ -17,7 +17,7 @@ La arquitectura de *microservicios* es ideal para nuestra página web de una caf
 
 - **Especialización tecnológica**: Cada microservicio puede utilizar el stack tecnológico más adecuado para su propósito específico, lo que permite una optimización más efectiva y la utilización de las mejores herramientas disponibles para cada tarea.
 
-- **Facilidad para actualizar y mejorar**: Al estar dividido en microservicios, el sitio web puede actualizarse por partes sin afectar el funcionamiento global. Esto es especialmente útil para añadir nuevas funcionalidades o mejorar las existentes, como la personalización de bebidas o el programa de lealtad.
+- **Facilidad para actualizar y mejorar**: Al estar dividido en microservicios, el sitio web puede actualizarse por partes sin afectar el funcionamiento global. Esto es especialmente útil para añadir nuevas funcionalidades o mejorar las existentes, como la personalización de bebidas o el programa de lealtad .
 
 En resumen, la arquitectura de microservicios ofrece flexibilidad, escalabilidad, y eficiencia para manejar las diversas y complejas funcionalidades de un sitio web para una cafetería moderna, asegurando al mismo tiempo una experiencia de usuario fluida y confiable.
 
